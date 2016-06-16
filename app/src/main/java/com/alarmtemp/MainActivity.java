@@ -20,7 +20,6 @@ public class MainActivity extends ActionBarActivity {
     public AnimationDrawable anim;
     private Handler mHandler = new Handler();
     private int estado;
-    private int test;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
