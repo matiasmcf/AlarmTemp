@@ -1,0 +1,12 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/barra2" android:duration="100" />
+    <item android:drawable="@drawable/barra3" android:duration="100"/>
+    <item android:drawable="@drawable/barra4" android:duration="100" />
+    <item android:drawable="@drawable/barra5" android:duration="100"/>
+    <item android:drawable="@drawable/barra6" android:duration="100" />
+    <item android:drawable="@drawable/barra5" android:duration="100"/>
+    <item android:drawable="@drawable/barra4" android:duration="100" />
+    <item android:drawable="@drawable/barra3" android:duration="100"/>
+    <item android:drawable="@drawable/barra2" android:duration="100" />
+</animation-list>
