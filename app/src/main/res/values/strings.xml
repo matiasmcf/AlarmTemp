@@ -4,5 +4,4 @@
     <string name="id_value">0</string>
     <string name="content_label">The Content is</string>
     <string name="content_value">[content]</string>
-    <string name="action_refresh">Refresh</string>
 </resources>

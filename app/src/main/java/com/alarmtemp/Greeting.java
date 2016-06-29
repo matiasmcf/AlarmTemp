@@ -1,18 +1,14 @@
 package com.alarmtemp;
 
-/**
- * Created by kevin on 29/05/2016.
- */
 public class Greeting {
 
-    private String id;
-    private String content;
+    private String temp;
+    private String alarm;
+    private String encendido;
 
-    public String getId() {
-        return this.id;
+    public String getTemp() {
+        return this.temp;
     }
-
-    public String getContent() {
-        return this.content;
-    }
+    public String getAlarm() { return this.alarm; }
+    public String getEncendido() {return this.encendido;}
 }
